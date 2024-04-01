@@ -42,7 +42,7 @@ Instructions
 - Charles Caulier
 - Damien Legay
 
-## Objectifs de la semaine
+## Objectifs de la semaine 1
 
 ------------------------------------------------------
 
@@ -53,5 +53,20 @@ Instructions
 | Yanis    | Élaborer un squelette de script pour les informations PowerShell et commencer à développer le script | - Commencer à rédiger la documentation. |
 | Charles  | Élaborer un squelette de script pour les informations PowerShell et commencer à développer le script | -Commencer à rédiger la documentation.      |
 
+## Objectifs de la semaine 2
 
+------------------------------------------------------
+
+| Nom      | Objectif                                                                                      |  Documentation |Objectif commun |
+|----------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----|
+| Damien   | Intégrer le code dans le squelette bash, aider pour avance dans le code et commencer les testes | - Poursuivre la documentation. | -Mise en réseaux des machines |
+| Maxime   | Continuer sur le script powerShell | -Poursuivre la documentation.     | -Mise en réseaux des machines |
+| Yanis    | Continuer le code bash | -Poursuivre la documentation. | -Mise en réseaux des machines |
+| Charles  | continuer le code bash | -Poursuivre la documentation.      | -Mise en réseaux des machines |
+
+---------------------------------------------------------------------------------------
+
+| Palier à atteindre fin de semaine 2 |
+| :------------------------------:|
+| Finir la partir bash             |
 
